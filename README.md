@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yureshtharushika&label=Profile%20views&color=0e75b6&style=flat" alt="yureshtharushika" /> </p>
 
-- 🌱 I’m currently learning **Django & ML**
+- 🌱 I’m currently learning **.NET Core**
 
 - 📫 How to reach me **yuresh.official@gmail.com**
 
